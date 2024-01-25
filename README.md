@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irfan</h1>
-<h3 align="center">AI Engineer and Back-End Developer From Indonesia</h3>
+<h3 align="center">AI Engineer Enthusiast and Back-End Developer From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanwahyr&label=Profile%20views&color=0e75b6&style=flat" alt="irfanwahyr" /> </p>
 
