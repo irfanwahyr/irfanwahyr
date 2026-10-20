@@ -1,9 +1,24 @@
-<h1 align="center">Hi 👋, I'm Irfan</h1>
-<h3 align="center">Software engineer From Indonesia</h3>
+ <h1 align="center">Hi 👋, I'm Irfan Wahyu Ramadhani</h1>
+<h3 align="center">Software Engineer | Indonesia 🇮🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanwahyr&label=Profile%20views&color=0e75b6&style=flat" alt="irfanwahyr" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=irfanwahyr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/irfan-wahyu-ramadhani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irfan-wahyu-ramadhani/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/irfan-wahyu-ramadhani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  I build software solutions and enjoy exploring backend architecture, web development, and modern technologies.
 </p>
